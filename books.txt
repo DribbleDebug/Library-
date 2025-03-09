@@ -1,0 +1,10 @@
+1,Deep Learning, Ian Goodfellow,MIT Press,2016,9780262035613,0
+2,Python Crash Course,Eric Matthes,No Starch Press,2019,9781593279288,0
+3,The Pragmatic Programmer,Andy Hunt,Addison-Wesley,1999,9780201616224,0
+4,Computer Vision,Richard Szeliski,Springer,2022,9783030343729,0
+5,Artificial Intelligence,Stuart Russell,Prentice Hall,2020,9780134610993,0
+6,The Art of Computer Programming,Donald Knuth,Addison-Wesley,2011,9780201896830,0
+7,Structure and Interpretation of Computer Programs,Harold Abelson,MIT Press,1996,9780262510875,0
+8,Code Complete,Steve McConnell,Microsoft Press,2004,9780735619678,0
+9,Introduction to the Theory of Computation,Michael Sipser,Cengage,2012,9781133187790,0
+10,Computer Architecture,David A. Patterson,Morgan Kaufmann,2017,9780128119051,0
